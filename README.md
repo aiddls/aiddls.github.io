@@ -1,5 +1,7 @@
 # 人工智能具身智能投稿推荐
 
+<a href="https://quiettoolbox.github.io/"><img src="https://quiettoolbox.github.io/assets/quiettoolbox-avatar.jpg" width="32" height="32" alt="QuietToolbox"></a> **[← QuietToolbox 首页 / Toolbox Home](https://quiettoolbox.github.io/)**
+
 人工智能、机器人与具身智能领域的会议和期刊投稿参考。
 
 - 会议：CCF 等级、投稿截止日期、倒计时、历史录用率。
