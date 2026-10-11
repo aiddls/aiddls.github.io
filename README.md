@@ -1,4 +1,4 @@
-# 人工智能具身智能投稿推荐
+# AI DDLs
 
 [![返回工具箱首页](https://quiettoolbox.github.io/assets/toolbox-home-zh.svg)](https://quiettoolbox.github.io/)
 
